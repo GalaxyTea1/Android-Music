@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Music</string>
+
+
+    <string-array name="name_music">
+        <item>Never Enough</item>
+        <item>Bong Hoa Dep Nhat</item>
+        <item>Never Enough 2</item>
+    </string-array>
+
+    <string name="bt_play">Play</string>
+    <string name="bt_danhsach">Danh Sách</string>
+    <string name="bt_thoat">Thoát</string>
+    <string name="bt_pre">PRE</string>
+    <string name="bt_next">NEXT</string>
+    <string name="bt_pause">PAUSE</string>
+    <string name="bt_stop">STOP</string>
+</resources>
